@@ -1,0 +1,112 @@
+---
+object: card
+id: 9c007d0b-1100-404a-beb2-f484aeae2e22
+oracle_id: 53d5d961-d6a3-49b1-b335-2c2b49972008
+multiverse_ids: []
+mtgo_id: 70657
+name: Whiptongue Hydra
+lang: en
+released_at: '2018-12-06'
+uri: https://api.scryfall.com/cards/9c007d0b-1100-404a-beb2-f484aeae2e22
+scryfall_uri: https://scryfall.com/card/pz2/70657/whiptongue-hydra?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/c/9c007d0b-1100-404a-beb2-f484aeae2e22.jpg?1582624496
+  normal: https://cards.scryfall.io/normal/front/9/c/9c007d0b-1100-404a-beb2-f484aeae2e22.jpg?1582624496
+  large: https://cards.scryfall.io/large/front/9/c/9c007d0b-1100-404a-beb2-f484aeae2e22.jpg?1582624496
+  png: https://cards.scryfall.io/png/front/9/c/9c007d0b-1100-404a-beb2-f484aeae2e22.png?1582624496
+  art_crop: https://cards.scryfall.io/art_crop/front/9/c/9c007d0b-1100-404a-beb2-f484aeae2e22.jpg?1582624496
+  border_crop: https://cards.scryfall.io/border_crop/front/9/c/9c007d0b-1100-404a-beb2-f484aeae2e22.jpg?1582624496
+mana_cost: "{5}{G}"
+cmc: 6.0
+type_line: Creature — Lizard Hydra
+oracle_text: |-
+  Reach
+  When Whiptongue Hydra enters the battlefield, destroy all creatures with flying. Put a +1/+1 counter on Whiptongue Hydra for each creature destroyed this way.
+power: '4'
+toughness: '4'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Reach
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2661b143-8eac-4c73-9d93-549fe928bd96
+set: pz2
+set_name: Treasure Chest
+set_type: treasure_chest
+set_uri: https://api.scryfall.com/sets/2661b143-8eac-4c73-9d93-549fe928bd96
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apz2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pz2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9c007d0b-1100-404a-beb2-f484aeae2e22/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A53d5d961-d6a3-49b1-b335-2c2b49972008&unique=prints
+collector_number: '70657'
+digital: true
+rarity: rare
+flavor_text: |-
+  "Where'd all the birds go?"
+  —Kaldrin, jungle sightseer
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tomasz Jedruszek
+artist_ids:
+- bba69285-2445-4a4b-a847-59397be972ea
+illustration_id: a5a61ad7-5d82-4a71-81f9-1500616ca2b6
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 4214
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '1.91'
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Whiptongue+Hydra&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Whiptongue+Hydra&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Whiptongue+Hydra
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Whiptongue+Hydra&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Whiptongue+Hydra&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/70657?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

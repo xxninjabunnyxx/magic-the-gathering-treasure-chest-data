@@ -1,0 +1,113 @@
+---
+object: card
+id: 73ab23e2-457d-4726-89fa-5112109c2204
+oracle_id: 3a30089d-cd2d-49be-9b06-7a2454117692
+multiverse_ids: []
+mtgo_id: 70763
+name: Aminatou, the Fateshifter
+lang: en
+released_at: '2018-12-06'
+uri: https://api.scryfall.com/cards/73ab23e2-457d-4726-89fa-5112109c2204
+scryfall_uri: https://scryfall.com/card/pz2/70763/aminatou-the-fateshifter?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/3/73ab23e2-457d-4726-89fa-5112109c2204.jpg?1545872810
+  normal: https://cards.scryfall.io/normal/front/7/3/73ab23e2-457d-4726-89fa-5112109c2204.jpg?1545872810
+  large: https://cards.scryfall.io/large/front/7/3/73ab23e2-457d-4726-89fa-5112109c2204.jpg?1545872810
+  png: https://cards.scryfall.io/png/front/7/3/73ab23e2-457d-4726-89fa-5112109c2204.png?1545872810
+  art_crop: https://cards.scryfall.io/art_crop/front/7/3/73ab23e2-457d-4726-89fa-5112109c2204.jpg?1545872810
+  border_crop: https://cards.scryfall.io/border_crop/front/7/3/73ab23e2-457d-4726-89fa-5112109c2204.jpg?1545872810
+mana_cost: "{W}{U}{B}"
+cmc: 3.0
+type_line: Legendary Planeswalker — Aminatou
+oracle_text: |-
+  +1: Draw a card, then put a card from your hand on top of your library.
+  −1: Exile another target permanent you own, then return it to the battlefield under your control.
+  −6: Choose left or right. Each player gains control of all nonland permanents other than Aminatou, the Fateshifter controlled by the next player in the chosen direction.
+  Aminatou, the Fateshifter can be your commander.
+loyalty: '3'
+colors:
+- B
+- U
+- W
+color_identity:
+- B
+- U
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2661b143-8eac-4c73-9d93-549fe928bd96
+set: pz2
+set_name: Treasure Chest
+set_type: treasure_chest
+set_uri: https://api.scryfall.com/sets/2661b143-8eac-4c73-9d93-549fe928bd96
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apz2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pz2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/73ab23e2-457d-4726-89fa-5112109c2204/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3a30089d-cd2d-49be-9b06-7a2454117692&unique=prints
+collector_number: '70763'
+digital: true
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Seb McKinnon
+artist_ids:
+- ad4caca0-8d89-44ce-a1a6-d5ca905bd6fb
+illustration_id: 9da492c3-2e5f-4f40-a254-fc3993a8ead6
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 3191
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '1.64'
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Aminatou%2C+the+Fateshifter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Aminatou%2C+the+Fateshifter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Aminatou%2C+the+Fateshifter
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Aminatou%2C+the+Fateshifter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Aminatou%2C+the+Fateshifter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/70763?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

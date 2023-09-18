@@ -1,0 +1,113 @@
+---
+object: card
+id: 6e8d5e9a-4a69-41d6-82b1-eb90e534d9e6
+oracle_id: 331b6834-6bb4-40fa-b80b-22d67b34734f
+multiverse_ids: []
+mtgo_id: 62321
+name: Sidar Kondo of Jamuraa
+lang: en
+released_at: '2016-11-16'
+uri: https://api.scryfall.com/cards/6e8d5e9a-4a69-41d6-82b1-eb90e534d9e6
+scryfall_uri: https://scryfall.com/card/pz2/54/sidar-kondo-of-jamuraa?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/e/6e8d5e9a-4a69-41d6-82b1-eb90e534d9e6.jpg?1562254019
+  normal: https://cards.scryfall.io/normal/front/6/e/6e8d5e9a-4a69-41d6-82b1-eb90e534d9e6.jpg?1562254019
+  large: https://cards.scryfall.io/large/front/6/e/6e8d5e9a-4a69-41d6-82b1-eb90e534d9e6.jpg?1562254019
+  png: https://cards.scryfall.io/png/front/6/e/6e8d5e9a-4a69-41d6-82b1-eb90e534d9e6.png?1562254019
+  art_crop: https://cards.scryfall.io/art_crop/front/6/e/6e8d5e9a-4a69-41d6-82b1-eb90e534d9e6.jpg?1562254019
+  border_crop: https://cards.scryfall.io/border_crop/front/6/e/6e8d5e9a-4a69-41d6-82b1-eb90e534d9e6.jpg?1562254019
+mana_cost: "{2}{G}{W}"
+cmc: 4.0
+type_line: Legendary Creature — Human Knight
+oracle_text: |-
+  Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+  Creatures your opponents control without flying or reach can't block creatures with power 2 or less.
+  Partner (You can have two commanders if both have partner.)
+power: '2'
+toughness: '5'
+colors:
+- G
+- W
+color_identity:
+- G
+- W
+keywords:
+- Flanking
+- Partner
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2661b143-8eac-4c73-9d93-549fe928bd96
+set: pz2
+set_name: Treasure Chest
+set_type: treasure_chest
+set_uri: https://api.scryfall.com/sets/2661b143-8eac-4c73-9d93-549fe928bd96
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apz2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pz2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6e8d5e9a-4a69-41d6-82b1-eb90e534d9e6/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A331b6834-6bb4-40fa-b80b-22d67b34734f&unique=prints
+collector_number: '54'
+digital: true
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ryan Alexander Lee
+artist_ids:
+- f4d194b4-958a-4830-8d87-1a84e0b9ffbc
+illustration_id: 4a74f353-f227-42ab-8abf-25f1b92c34af
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 6152
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.72'
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sidar+Kondo+of+Jamuraa&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sidar+Kondo+of+Jamuraa&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sidar+Kondo+of+Jamuraa
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Sidar+Kondo+of+Jamuraa&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sidar+Kondo+of+Jamuraa&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/62321?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

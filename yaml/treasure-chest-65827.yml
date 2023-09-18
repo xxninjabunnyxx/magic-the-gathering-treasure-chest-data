@@ -1,0 +1,104 @@
+---
+object: card
+id: a0cfc6ca-c025-4be5-a1bc-11ed0ca9694f
+oracle_id: 24a78116-d5e0-4e30-b192-d8bffe347a0c
+multiverse_ids: []
+mtgo_id: 65827
+name: Drafna's Restoration
+lang: en
+released_at: '2016-11-16'
+uri: https://api.scryfall.com/cards/a0cfc6ca-c025-4be5-a1bc-11ed0ca9694f
+scryfall_uri: https://scryfall.com/card/pz2/65827/drafnas-restoration?utm_source=api
+layout: normal
+highres_image: false
+image_status: lowres
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/0/a0cfc6ca-c025-4be5-a1bc-11ed0ca9694f.jpg?1562254853
+  normal: https://cards.scryfall.io/normal/front/a/0/a0cfc6ca-c025-4be5-a1bc-11ed0ca9694f.jpg?1562254853
+  large: https://cards.scryfall.io/large/front/a/0/a0cfc6ca-c025-4be5-a1bc-11ed0ca9694f.jpg?1562254853
+  png: https://cards.scryfall.io/png/front/a/0/a0cfc6ca-c025-4be5-a1bc-11ed0ca9694f.png?1562254853
+  art_crop: https://cards.scryfall.io/art_crop/front/a/0/a0cfc6ca-c025-4be5-a1bc-11ed0ca9694f.jpg?1562254853
+  border_crop: https://cards.scryfall.io/border_crop/front/a/0/a0cfc6ca-c025-4be5-a1bc-11ed0ca9694f.jpg?1562254853
+mana_cost: "{U}"
+cmc: 1.0
+type_line: Sorcery
+oracle_text: Put any number of target artifact cards from target player's graveyard
+  on top of their library in any order.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2661b143-8eac-4c73-9d93-549fe928bd96
+set: pz2
+set_name: Treasure Chest
+set_type: treasure_chest
+set_uri: https://api.scryfall.com/sets/2661b143-8eac-4c73-9d93-549fe928bd96
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apz2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pz2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a0cfc6ca-c025-4be5-a1bc-11ed0ca9694f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A24a78116-d5e0-4e30-b192-d8bffe347a0c&unique=prints
+collector_number: '65827'
+digital: true
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ioan Dumitrescu
+artist_ids:
+- 7cf2f53f-3a7e-461f-a9bd-37a3cf7cac94
+illustration_id: 67e4853f-10b9-4bc7-a521-0920e9058377
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 16502
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.80'
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Drafna%27s+Restoration&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Drafna%27s+Restoration&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Drafna%27s+Restoration
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Drafna%27s+Restoration&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Drafna%27s+Restoration&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/65827?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,107 @@
+---
+object: card
+id: 602dce20-f8eb-4817-b532-1c5b1192aec4
+oracle_id: b488e75f-af9c-43e2-8aca-f269fa2c720e
+multiverse_ids: []
+mtgo_id: 65719
+name: Kindred Summons
+lang: en
+released_at: '2016-11-16'
+uri: https://api.scryfall.com/cards/602dce20-f8eb-4817-b532-1c5b1192aec4
+scryfall_uri: https://scryfall.com/card/pz2/65719/kindred-summons?utm_source=api
+layout: normal
+highres_image: false
+image_status: lowres
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/0/602dce20-f8eb-4817-b532-1c5b1192aec4.jpg?1562253975
+  normal: https://cards.scryfall.io/normal/front/6/0/602dce20-f8eb-4817-b532-1c5b1192aec4.jpg?1562253975
+  large: https://cards.scryfall.io/large/front/6/0/602dce20-f8eb-4817-b532-1c5b1192aec4.jpg?1562253975
+  png: https://cards.scryfall.io/png/front/6/0/602dce20-f8eb-4817-b532-1c5b1192aec4.png?1562253975
+  art_crop: https://cards.scryfall.io/art_crop/front/6/0/602dce20-f8eb-4817-b532-1c5b1192aec4.jpg?1562253975
+  border_crop: https://cards.scryfall.io/border_crop/front/6/0/602dce20-f8eb-4817-b532-1c5b1192aec4.jpg?1562253975
+mana_cost: "{5}{G}{G}"
+cmc: 7.0
+type_line: Instant
+oracle_text: Choose a creature type. Reveal cards from the top of your library until
+  you reveal X creature cards of the chosen type, where X is the number of creatures
+  you control of that type. Put those cards onto the battlefield, then shuffle the
+  rest of the revealed cards into your library.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2661b143-8eac-4c73-9d93-549fe928bd96
+set: pz2
+set_name: Treasure Chest
+set_type: treasure_chest
+set_uri: https://api.scryfall.com/sets/2661b143-8eac-4c73-9d93-549fe928bd96
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apz2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pz2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/602dce20-f8eb-4817-b532-1c5b1192aec4/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab488e75f-af9c-43e2-8aca-f269fa2c720e&unique=prints
+collector_number: '65719'
+digital: true
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ryan Pancoast
+artist_ids:
+- 89cc9475-dda2-4d13-bf88-54b92867a25c
+illustration_id: c8d00da5-e3cb-4e59-b89d-020594e98123
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 1422
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '9.78'
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kindred+Summons&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kindred+Summons&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Kindred+Summons
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Kindred+Summons&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kindred+Summons&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/65719?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

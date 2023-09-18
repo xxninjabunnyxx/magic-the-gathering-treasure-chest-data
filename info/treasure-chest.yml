@@ -1,0 +1,17 @@
+---
+object: set
+id: 2661b143-8eac-4c73-9d93-549fe928bd96
+code: pz2
+mtgo_code: pz2
+arena_code: pz2
+name: Treasure Chest
+uri: https://api.scryfall.com/sets/2661b143-8eac-4c73-9d93-549fe928bd96
+scryfall_uri: https://scryfall.com/sets/pz2
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apz2&unique=prints
+released_at: '2016-11-16'
+set_type: treasure_chest
+card_count: 282
+digital: true
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/pz2.svg?1694404800

@@ -1,0 +1,112 @@
+---
+object: card
+id: 649256e0-22ed-4a04-b770-47c18bd9de05
+oracle_id: fffaa634-42a0-4038-b027-24f28754fec7
+multiverse_ids: []
+mtgo_id: 68076
+name: Firesong and Sunspeaker
+lang: en
+released_at: '2018-07-11'
+uri: https://api.scryfall.com/cards/649256e0-22ed-4a04-b770-47c18bd9de05
+scryfall_uri: https://scryfall.com/card/pz2/68076/firesong-and-sunspeaker?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/4/649256e0-22ed-4a04-b770-47c18bd9de05.jpg?1562253988
+  normal: https://cards.scryfall.io/normal/front/6/4/649256e0-22ed-4a04-b770-47c18bd9de05.jpg?1562253988
+  large: https://cards.scryfall.io/large/front/6/4/649256e0-22ed-4a04-b770-47c18bd9de05.jpg?1562253988
+  png: https://cards.scryfall.io/png/front/6/4/649256e0-22ed-4a04-b770-47c18bd9de05.png?1562253988
+  art_crop: https://cards.scryfall.io/art_crop/front/6/4/649256e0-22ed-4a04-b770-47c18bd9de05.jpg?1562253988
+  border_crop: https://cards.scryfall.io/border_crop/front/6/4/649256e0-22ed-4a04-b770-47c18bd9de05.jpg?1562253988
+mana_cost: "{4}{R}{W}"
+cmc: 6.0
+type_line: Legendary Creature — Minotaur Cleric
+oracle_text: |-
+  Red instant and sorcery spells you control have lifelink.
+  Whenever a white instant or sorcery spell causes you to gain life, Firesong and Sunspeaker deals 3 damage to target creature or player.
+power: '4'
+toughness: '6'
+colors:
+- R
+- W
+color_identity:
+- R
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2661b143-8eac-4c73-9d93-549fe928bd96
+set: pz2
+set_name: Treasure Chest
+set_type: treasure_chest
+set_uri: https://api.scryfall.com/sets/2661b143-8eac-4c73-9d93-549fe928bd96
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apz2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pz2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/649256e0-22ed-4a04-b770-47c18bd9de05/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afffaa634-42a0-4038-b027-24f28754fec7&unique=prints
+collector_number: '68076'
+digital: true
+rarity: rare
+flavor_text: The peaks of Hurloon never fall silent.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Zoltan Boros
+artist_ids:
+- 1885e6cb-c827-4896-994e-3d0a027d602f
+illustration_id: 27ff1cb8-aaf8-4534-80ce-a4312e692bfe
+border_color: black
+frame: '2015'
+frame_effects:
+- legendary
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 7493
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.97'
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Firesong+and+Sunspeaker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Firesong+and+Sunspeaker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Firesong+and+Sunspeaker
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Firesong+and+Sunspeaker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Firesong+and+Sunspeaker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/68076?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

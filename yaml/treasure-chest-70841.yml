@@ -1,0 +1,106 @@
+---
+object: card
+id: 429f63a0-9696-47db-9e68-cb34f3e338cc
+oracle_id: 31585036-cdc3-47f5-9fc7-913212826f2a
+multiverse_ids: []
+mtgo_id: 70841
+name: Qilin's Blessing
+lang: en
+released_at: '2018-12-06'
+uri: https://api.scryfall.com/cards/429f63a0-9696-47db-9e68-cb34f3e338cc
+scryfall_uri: https://scryfall.com/card/pz2/70841/qilins-blessing?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/2/429f63a0-9696-47db-9e68-cb34f3e338cc.jpg?1572038441
+  normal: https://cards.scryfall.io/normal/front/4/2/429f63a0-9696-47db-9e68-cb34f3e338cc.jpg?1572038441
+  large: https://cards.scryfall.io/large/front/4/2/429f63a0-9696-47db-9e68-cb34f3e338cc.jpg?1572038441
+  png: https://cards.scryfall.io/png/front/4/2/429f63a0-9696-47db-9e68-cb34f3e338cc.png?1572038441
+  art_crop: https://cards.scryfall.io/art_crop/front/4/2/429f63a0-9696-47db-9e68-cb34f3e338cc.jpg?1572038441
+  border_crop: https://cards.scryfall.io/border_crop/front/4/2/429f63a0-9696-47db-9e68-cb34f3e338cc.jpg?1572038441
+mana_cost: "{W}"
+cmc: 1.0
+type_line: Instant
+oracle_text: Target creature gets +2/+2 until end of turn.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2661b143-8eac-4c73-9d93-549fe928bd96
+set: pz2
+set_name: Treasure Chest
+set_type: treasure_chest
+set_uri: https://api.scryfall.com/sets/2661b143-8eac-4c73-9d93-549fe928bd96
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apz2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pz2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/429f63a0-9696-47db-9e68-cb34f3e338cc/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A31585036-cdc3-47f5-9fc7-913212826f2a&unique=prints
+collector_number: '70841'
+digital: true
+rarity: common
+flavor_text: |-
+  "Interesting . . . This mortal being seems to have been blessed with Qilin's essence."
+  —Mu Yanling's journal
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Wolk Sheep
+artist_ids:
+- e6a61f54-9e34-4285-9817-90793a343ca9
+illustration_id: 45ec8ab8-e8e9-480c-b53f-d013b5465d6c
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 23658
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '8.16'
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Qilin%27s+Blessing&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Qilin%27s+Blessing&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Qilin%27s+Blessing
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Qilin%27s+Blessing&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Qilin%27s+Blessing&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/70841?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,121 @@
+---
+object: card
+id: '06918f9a-e0fa-4a3d-aed9-3bee98f7a2b9'
+oracle_id: 34e1477a-c0fb-4364-bb93-04a85c0c2517
+multiverse_ids: []
+mtgo_id: 70795
+name: Mu Yanling
+lang: en
+released_at: '2018-12-06'
+uri: https://api.scryfall.com/cards/06918f9a-e0fa-4a3d-aed9-3bee98f7a2b9
+scryfall_uri: https://scryfall.com/card/pz2/70795/mu-yanling?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/6/06918f9a-e0fa-4a3d-aed9-3bee98f7a2b9.jpg?1545872901
+  normal: https://cards.scryfall.io/normal/front/0/6/06918f9a-e0fa-4a3d-aed9-3bee98f7a2b9.jpg?1545872901
+  large: https://cards.scryfall.io/large/front/0/6/06918f9a-e0fa-4a3d-aed9-3bee98f7a2b9.jpg?1545872901
+  png: https://cards.scryfall.io/png/front/0/6/06918f9a-e0fa-4a3d-aed9-3bee98f7a2b9.png?1545872901
+  art_crop: https://cards.scryfall.io/art_crop/front/0/6/06918f9a-e0fa-4a3d-aed9-3bee98f7a2b9.jpg?1545872901
+  border_crop: https://cards.scryfall.io/border_crop/front/0/6/06918f9a-e0fa-4a3d-aed9-3bee98f7a2b9.jpg?1545872901
+mana_cost: "{4}{U}{U}"
+cmc: 6.0
+type_line: Legendary Planeswalker — Yanling
+oracle_text: |-
+  +2: Target creature can't be blocked this turn.
+  −3: Draw two cards.
+  −10: Tap all creatures your opponents control. You take an extra turn after this one.
+loyalty: '5'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+all_parts:
+- object: related_card
+  id: '06918f9a-e0fa-4a3d-aed9-3bee98f7a2b9'
+  component: combo_piece
+  name: Mu Yanling
+  type_line: Legendary Planeswalker — Yanling
+  uri: https://api.scryfall.com/cards/06918f9a-e0fa-4a3d-aed9-3bee98f7a2b9
+- object: related_card
+  id: db235338-1ac8-4535-af62-297d1ebe9c27
+  component: combo_piece
+  name: Rhythmic Water Vortex
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/db235338-1ac8-4535-af62-297d1ebe9c27
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2661b143-8eac-4c73-9d93-549fe928bd96
+set: pz2
+set_name: Treasure Chest
+set_type: treasure_chest
+set_uri: https://api.scryfall.com/sets/2661b143-8eac-4c73-9d93-549fe928bd96
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apz2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pz2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/06918f9a-e0fa-4a3d-aed9-3bee98f7a2b9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A34e1477a-c0fb-4364-bb93-04a85c0c2517&unique=prints
+collector_number: '70795'
+digital: true
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: 林玄泰
+artist_ids:
+- 8e85c472-9f47-4091-ad38-b1222ba6e99d
+illustration_id: 106912e9-1d84-4ad8-81c9-b2a496be8ca9
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 10705
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '10.95'
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mu+Yanling&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mu+Yanling&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mu+Yanling
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Mu+Yanling&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mu+Yanling&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/70795?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

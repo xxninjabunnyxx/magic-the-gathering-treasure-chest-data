@@ -1,0 +1,137 @@
+---
+object: card
+id: 060372c9-1d84-4fb5-97c2-b9fdafe46b11
+oracle_id: 64e413c9-96e5-43c3-a182-84d53fef4327
+multiverse_ids: []
+mtgo_id: 65841
+name: The Unspeakable
+lang: en
+released_at: '2016-11-16'
+uri: https://api.scryfall.com/cards/060372c9-1d84-4fb5-97c2-b9fdafe46b11
+scryfall_uri: https://scryfall.com/card/pz2/65841/the-unspeakable?utm_source=api
+layout: normal
+highres_image: false
+image_status: lowres
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/6/060372c9-1d84-4fb5-97c2-b9fdafe46b11.jpg?1562253018
+  normal: https://cards.scryfall.io/normal/front/0/6/060372c9-1d84-4fb5-97c2-b9fdafe46b11.jpg?1562253018
+  large: https://cards.scryfall.io/large/front/0/6/060372c9-1d84-4fb5-97c2-b9fdafe46b11.jpg?1562253018
+  png: https://cards.scryfall.io/png/front/0/6/060372c9-1d84-4fb5-97c2-b9fdafe46b11.png?1562253018
+  art_crop: https://cards.scryfall.io/art_crop/front/0/6/060372c9-1d84-4fb5-97c2-b9fdafe46b11.jpg?1562253018
+  border_crop: https://cards.scryfall.io/border_crop/front/0/6/060372c9-1d84-4fb5-97c2-b9fdafe46b11.jpg?1562253018
+mana_cost: "{6}{U}{U}{U}"
+cmc: 9.0
+type_line: Legendary Creature — Spirit
+oracle_text: |-
+  Flying, trample
+  Whenever The Unspeakable deals combat damage to a player, you may return target Arcane card from your graveyard to your hand.
+power: '6'
+toughness: '7'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+- Trample
+all_parts:
+- object: related_card
+  id: c1fd8a97-1c97-45fe-8c06-013a1f528919
+  component: combo_piece
+  name: Sift Through Sands
+  type_line: Instant — Arcane
+  uri: https://api.scryfall.com/cards/c1fd8a97-1c97-45fe-8c06-013a1f528919
+- object: related_card
+  id: 060372c9-1d84-4fb5-97c2-b9fdafe46b11
+  component: combo_piece
+  name: The Unspeakable
+  type_line: Legendary Creature — Spirit
+  uri: https://api.scryfall.com/cards/060372c9-1d84-4fb5-97c2-b9fdafe46b11
+- object: related_card
+  id: df0994df-730c-4947-8248-0aaf97998fa1
+  component: combo_piece
+  name: Peer Through Depths
+  type_line: Instant — Arcane
+  uri: https://api.scryfall.com/cards/df0994df-730c-4947-8248-0aaf97998fa1
+- object: related_card
+  id: 0b6d5d29-4f38-4229-ac50-c4fa97fcc536
+  component: combo_piece
+  name: Reach Through Mists
+  type_line: Instant — Arcane
+  uri: https://api.scryfall.com/cards/0b6d5d29-4f38-4229-ac50-c4fa97fcc536
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2661b143-8eac-4c73-9d93-549fe928bd96
+set: pz2
+set_name: Treasure Chest
+set_type: treasure_chest
+set_uri: https://api.scryfall.com/sets/2661b143-8eac-4c73-9d93-549fe928bd96
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apz2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pz2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/060372c9-1d84-4fb5-97c2-b9fdafe46b11/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A64e413c9-96e5-43c3-a182-84d53fef4327&unique=prints
+collector_number: '65841'
+digital: true
+rarity: rare
+flavor_text: The rumors are horrifying; the truth is worse.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daarken
+artist_ids:
+- e607a0d4-fc12-4c01-9e3f-501f5269b9cb
+illustration_id: f7b7063c-c4ca-4812-8337-67bd95b4a57e
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 15467
+penny_rank: 13281
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=The+Unspeakable&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=The+Unspeakable&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=The+Unspeakable
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=The+Unspeakable&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=The+Unspeakable&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/65841?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

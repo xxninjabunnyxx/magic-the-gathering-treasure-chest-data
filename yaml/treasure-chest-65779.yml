@@ -1,0 +1,113 @@
+---
+object: card
+id: de65864b-ed0f-46ee-9ce7-d509ebdd0ad9
+oracle_id: 826d4279-1576-4898-a1c2-26fd547fb0d0
+multiverse_ids: []
+mtgo_id: 65779
+name: Treasonous Ogre
+lang: en
+released_at: '2016-11-16'
+uri: https://api.scryfall.com/cards/de65864b-ed0f-46ee-9ce7-d509ebdd0ad9
+scryfall_uri: https://scryfall.com/card/pz2/65779/treasonous-ogre?utm_source=api
+layout: normal
+highres_image: false
+image_status: lowres
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/e/de65864b-ed0f-46ee-9ce7-d509ebdd0ad9.jpg?1562255357
+  normal: https://cards.scryfall.io/normal/front/d/e/de65864b-ed0f-46ee-9ce7-d509ebdd0ad9.jpg?1562255357
+  large: https://cards.scryfall.io/large/front/d/e/de65864b-ed0f-46ee-9ce7-d509ebdd0ad9.jpg?1562255357
+  png: https://cards.scryfall.io/png/front/d/e/de65864b-ed0f-46ee-9ce7-d509ebdd0ad9.png?1562255357
+  art_crop: https://cards.scryfall.io/art_crop/front/d/e/de65864b-ed0f-46ee-9ce7-d509ebdd0ad9.jpg?1562255357
+  border_crop: https://cards.scryfall.io/border_crop/front/d/e/de65864b-ed0f-46ee-9ce7-d509ebdd0ad9.jpg?1562255357
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Creature — Ogre Shaman
+oracle_text: |-
+  Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)
+  Pay 3 life: Add {R}.
+power: '2'
+toughness: '3'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Dethrone
+produced_mana:
+- R
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2661b143-8eac-4c73-9d93-549fe928bd96
+set: pz2
+set_name: Treasure Chest
+set_type: treasure_chest
+set_uri: https://api.scryfall.com/sets/2661b143-8eac-4c73-9d93-549fe928bd96
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apz2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pz2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/de65864b-ed0f-46ee-9ce7-d509ebdd0ad9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A826d4279-1576-4898-a1c2-26fd547fb0d0&unique=prints
+collector_number: '65779'
+digital: true
+rarity: uncommon
+flavor_text: |-
+  "Everything comes with a price. Especially revolution."
+  —Grenzo, dungeon warden
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Randy Gallegos
+artist_ids:
+- a5048cc7-438a-4378-98e4-da99b78e1db0
+illustration_id: 04d04810-0717-472d-a06f-fb33cbab65c1
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 1908
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '12.95'
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Treasonous+Ogre&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Treasonous+Ogre&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Treasonous+Ogre
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Treasonous+Ogre&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Treasonous+Ogre&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/65779?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
